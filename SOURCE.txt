@@ -1,0 +1,4 @@
+A Dark Room by Michael Townsend (doublespeak games) and contributors - Mozilla Public License 2.0 (see LICENSE.md).
+Original: https://github.com/doublespeakgames/adarkroom (commit 1fada4620b6c66bd07bf15a3f1eb8223df8bc1d7).
+Source code of this modified version: https://github.com/lukenicklsonjr-code/a-dark-room
+Changes: English only (translations removed); removed analytics, the jQuery CDN (local copy used), app-store, share, GitHub and cross-promotion links, and the redirect that sent phones and tablets to an app page.
